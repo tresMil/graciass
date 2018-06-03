@@ -1,0 +1,179 @@
+#EXTM3U
+
+*** PREMIUM ***
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", =PREMIUM=
+http://srregio.com/
+
+#EXTINF:-1 tvg-ID="A&E (Andes)" tvg-name="A&E" tvg-logo="http://158.69.127.19/oscuros/ae.png" group-title="PREMIUM",A&E
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6821.ts
+#EXTINF:-1 tvg-ID="AMC (Latin America)  747" tvg-name="AMC" tvg-logo="http://158.69.127.19/oscuros/amc.png" group-title="PREMIUM",AMC
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6820.ts
+#EXTINF:-1 tvg-ID="Animal Planet (International)" tvg-name="Animal Planet" tvg-logo="https://dl.dropbox.com/s/kk1wfsu1ax3durd/pic_ch208.jpg" group-title="PREMIUM",Animal Planet
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6819.ts
+#EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="http://158.69.127.19/oscuros/axn.png" group-title="PREMIUM",AXN
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6818.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Azteca 13" tvg-logo="http://158.69.127.19/oscuros/azteca13.jpg" group-title="PREMIUM",Azteca 13
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6741.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="America Tv Miami." tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="PREMIUM",America Tv Miami.
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/2565.ts
+#EXTINF:-1 tvg-ID="babytv.mx" tvg-name="Baby tv" tvg-logo="http://158.69.127.19/oscuros/babytv.png" group-title="PREMIUM",Baby tv
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/9827.ts
+#EXTINF:-1 tvg-ID="Boomerang (Latin America)" tvg-name="Boomerang" tvg-logo="http://158.69.127.19/oscuros/boomerang.png" group-title="PREMIUM",Boomerang
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6874.ts
+#EXTINF:-1 tvg-ID="XHGC 5 Nacional" tvg-name="Canal 5 MX" tvg-logo="http://158.69.127.19/oscuros/canal5mx.png" group-title="PREMIUM",Canal 5 MX
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6744.ts
+#EXTINF:-1 tvg-ID="Canal Caracol de Colombia" tvg-name="Caracol" tvg-logo="http://158.69.127.19/oscuros/caracol.jpg" group-title="PREMIUM",Caracol
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6747.ts
+#EXTINF:-1 tvg-ID="Cartoon Network (Latin America - Panregional)" tvg-name="Cartoon Network" tvg-logo="http://158.69.127.19/oscuros/cartoonnetwork.png" group-title="PREMIUM",Cartoon Network
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6817.ts
+#EXTINF:-1 tvg-ID="Cine Latino (Panamericano)" tvg-name="Cine Latino" tvg-logo="http://158.69.127.19/oscuros/cinelatino.png" group-title="PREMIUM",Cine Latino
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6870.ts
+#EXTINF:-1 tvg-ID="Cinema Dinamita (Panamericano)" tvg-name="Cinema Dinamita" tvg-logo="http://158.69.127.19/oscuros/cinemadinamita.png" group-title="PREMIUM",Cinema Dinamita
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6869.ts
+#EXTINF:-1 tvg-ID="Cinecanal (Oeste)" tvg-name="CineCanal" tvg-logo="http://158.69.127.19/oscuros/cinecanal.png" group-title="PREMIUM",CineCanal
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6816.ts
+#EXTINF:-1 tvg-ID="Cinemax (Panamerican)" tvg-name="CineMax" tvg-logo="http://158.69.127.19/oscuros/cinemax.png" group-title="PREMIUM",CineMax
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6815.ts
+#EXTINF:-1 tvg-ID="bfa86fcd9fc60a959f70db9331d0fc52" tvg-name="CNNE" tvg-logo="http://158.69.127.19/oscuros/cnn.jpg" group-title="PREMIUM",CNNE
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6758.ts
+#EXTINF:-1 tvg-ID="Comedy Central (Latin America - North)" tvg-name="Comedy Central" tvg-logo="http://158.69.127.19/oscuros/comedycentral.jpg" group-title="PREMIUM",Comedy Central
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/7773.ts
+#EXTINF:-1 tvg-ID="" tvg-name="De Pelicula" tvg-logo="http://158.69.127.19/oscuros/depelicula.png" group-title="PREMIUM",De Pelicula
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6757.ts
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="http://158.69.127.19/oscuros/discoverychannel.png" group-title="PREMIUM",Discovery Channel
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6814.ts
+#EXTINF:-1 tvg-ID="Discovery Turbo International" tvg-name="Discovery Turbo" tvg-logo="http://158.69.127.19/oscuros/discoveryturbo.png" group-title="PREMIUM",Discovery Turbo
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6864.ts
+#EXTINF:-1 tvg-ID="Discovery Home & Health (Latin America)" tvg-name="Discovery Home & Health" tvg-logo="http://158.69.127.19/oscuros/discoveryhh.png" group-title="PREMIUM",Discovery Home & Health
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6865.ts
+#EXTINF:-1 tvg-ID="Discovery Theater (Latin America)" tvg-name="Discovery Theather" tvg-logo="http://158.69.127.19/oscuros/discoverytheaterHD.jpg" group-title="PREMIUM",Discovery Theather
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6813.ts
+#EXTINF:-1 tvg-ID="Discovery Kids (Latin America)" tvg-name="Discovery Kids" tvg-logo="http://158.69.127.19/oscuros/discoverykids.png" group-title="PREMIUM",Discovery Kids
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6812.ts
+
+#EXTINF:-1 tvg-ID="Disney en Español (Central feed/Multi country)" tvg-name="Disney Channel" tvg-logo="http://158.69.127.19/oscuros/disneychannel.png" group-title="PREMIUM",Disney Channel
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6811.ts
+#EXTINF:-1 tvg-ID="Disney Junior (North Feed)" tvg-name="Disney Junior" tvg-logo="http://158.69.127.19/oscuros/disneyjunior.png" group-title="PREMIUM",Disney Junior
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6863.ts
+#EXTINF:-1 tvg-ID="Disney XD Latin America (Central/Multi Country)" tvg-name="Disney XD" tvg-logo="http://158.69.127.19/oscuros/disneyxd.png" group-title="PREMIUM",Disney XD
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6862.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Las Estrellas" tvg-logo="http://158.69.127.19/oscuros/lasestrellas.jpg" group-title="PREMIUM",Las Estrellas
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6743.ts
+#EXTINF:-1 tvg-ID="Elgourmet.com (Norte)" tvg-name="El Gourmet" tvg-logo="http://158.69.127.19/oscuros/elgourmet.png" group-title="PREMIUM",El Gourmet
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6799.ts
+#EXTINF:-1 tvg-ID="Film&Arts (Latin America)" tvg-name="Film&Arts" tvg-logo="http://158.69.127.19/oscuros/filmarts.jpg" group-title="PREMIUM",Film&Arts
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/11440.ts
+#EXTINF:-1 tvg-ID="FX Movies" tvg-name="FX Movies" tvg-logo="http://158.69.127.19/oscuros/fxm.jpg" group-title="PREMIUM",FX Movies
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/11365.ts
+#EXTINF:-1 tvg-ID="FX Latin America" tvg-name="FX" tvg-logo="http://158.69.127.19/oscuros/fx.png" group-title="PREMIUM",FX
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6801.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox" tvg-logo="http://158.69.127.19/oscuros/fox.jpg" group-title="PREMIUM",Fox
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6808.ts
+#EXTINF:-1 tvg-ID="Fox International (Andes)" tvg-name="Canal Fox" tvg-logo="http://158.69.127.19/oscuros/fox.jpg" group-title="PREMIUM",Canal Fox
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/9777.ts
+#EXTINF:-1 tvg-ID="6757ac0777760e0b3b8e2032e3e5db7f" tvg-name="Fox Series" tvg-logo="http://158.69.127.19/oscuros/foxseries.jpg" group-title="PREMIUM",Fox Series
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6802.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Cinema" tvg-logo="http://158.69.127.19/oscuros/foxcinema.jpg" group-title="PREMIUM",Fox Cinema
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/9604.ts
+#EXTINF:-1 tvg-ID="Fox Comedy  557" tvg-name="Fox Comedy" tvg-logo="http://158.69.127.19/oscuros/foxcomedy.jpg" group-title="PREMIUM",Fox Comedy
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/9605.ts
+#EXTINF:-1 tvg-ID="Fox Classics Latin America (English Titles)" tvg-name="Fox Classic" tvg-logo="http://158.69.127.19/oscuros/foxclassics.jpg" group-title="PREMIUM",Fox Classic
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6856.ts
+#EXTINF:-1 tvg-ID="Fox Movies (East)" tvg-name="Fox Movies" tvg-logo="http://158.69.127.19/oscuros/foxmovies.jpg" group-title="PREMIUM",Fox Movies
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6805.ts
+#EXTINF:-1 tvg-ID="Fox Action (East)" tvg-name="Fox Action" tvg-logo="http://158.69.127.19/oscuros/foxaction.jpg" group-title="PREMIUM",Fox Action
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6807.ts
+#EXTINF:-1 tvg-ID="Fox Family (East)" tvg-name="Fox Family" tvg-logo="http://158.69.127.19/oscuros/foxfamily.jpg" group-title="PREMIUM",Fox Family
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6855.ts
+#EXTINF:-1 tvg-ID="Fox Life (Latin America)" tvg-name="Fox Life" tvg-logo="http://158.69.127.19/oscuros/foxlife.png" group-title="PREMIUM",Fox Life
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6806.ts
+
+#EXTINF:-1 tvg-ID="Golden (Latin America)" tvg-name="Golden" tvg-logo="http://158.69.127.19/oscuros/golden.png" group-title="PREMIUM",Golden
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6800.ts
+#EXTINF:-1 tvg-ID="HBO Latin America (East)" tvg-name="HBO" tvg-logo="http://158.69.127.19/oscuros/hbo.jpg" group-title="PREMIUM",HBO
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6751.ts
+#EXTINF:-1 tvg-ID="HBO 2 (Panamerican)" tvg-name="HBO2" tvg-logo="http://158.69.127.19/oscuros/hbo2.jpg" group-title="PREMIUM",HBO2
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6752.ts
+#EXTINF:-1 tvg-ID="HBO Plus (Panamericano)" tvg-name="HBO Plus" tvg-logo="http://158.69.127.19/oscuros/hboplus.jpg" group-title="PREMIUM",HBO Plus
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6851.ts
+#EXTINF:-1 tvg-ID="HBO Family (Spanish)" tvg-name="HBO Family" tvg-logo="http://158.69.127.19/oscuros/hbofamily.jpg" group-title="PREMIUM",HBO Family
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6852.ts
+#EXTINF:-1 tvg-ID="The History Channel (Andes)" tvg-name="History" tvg-logo="http://158.69.127.19/oscuros/history.png" group-title="PREMIUM",History
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6798.ts
+#EXTINF:-1 tvg-ID="History 2 (Latin America)" tvg-name="H2" tvg-logo="http://158.69.127.19/oscuros/h2.png" group-title="PREMIUM",H2
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6750.ts
+#EXTINF:-1 tvg-ID="Investigation Discovery (Mexico)" tvg-name="Investigacion Discovery" tvg-logo="http://158.69.127.19/oscuros/id.jpg" group-title="PREMIUM",Investigacion Discovery
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6848.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Max" tvg-logo="http://158.69.127.19/oscuros/max.jpg" group-title="PREMIUM",Max
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/10194.ts
+#EXTINF:-1 tvg-ID="MAX Prime Panamericano" tvg-name="Max Prime (Oeste)" tvg-logo="http://158.69.127.19/oscuros/maxprime.jpg" group-title="PREMIUM",Max Prime (Oeste)
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6843.ts
+#EXTINF:-1 tvg-ID="MTV Latin America (Central Feed)" tvg-name="MTV" tvg-logo="http://158.69.127.19/logos1/mtv.jpg" group-title="PREMIUM",MTV
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6795.ts
+#EXTINF:-1 tvg-ID="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://158.69.127.19/logos1/mtvhits.jpg" group-title="PREMIUM",MTV Hits
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6841.ts
+#EXTINF:-1 tvg-ID="Multipremier (Panamericano)" tvg-name="Multipremier" tvg-logo="http://158.69.127.19/oscuros/multipremier.png" group-title="PREMIUM",Multipremier
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6763.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NTN 24 Horas" tvg-logo="http://158.69.127.19/oscuros/ntn24.jpg" group-title="PREMIUM",NTN 24 Horas
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/9566.ts
+#EXTINF:-1 tvg-ID="National Geographic Channel (Latin America)" tvg-name="National Geographic" tvg-logo="http://158.69.127.19/oscuros/nationalgeographic.jpg" group-title="PREMIUM",National Geographic
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6839.ts
+#EXTINF:-1 tvg-ID="National Geographic Wild (Latin America)" tvg-name="Nat Geo Wild" tvg-logo="http://158.69.127.19/oscuros/natgeowild.png" group-title="PREMIUM",Nat Geo Wild
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6794.ts
+#EXTINF:-1 tvg-ID="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://158.69.127.19/oscuros/nickjr.png" group-title="PREMIUM",Nick Jr.
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6793.ts
+#EXTINF:-1 tvg-ID="Nickelodeon (Latin America / Central)" tvg-name="Nickelodeon" tvg-logo="http://158.69.127.19/logos1/nickelodeon.jpg" group-title="PREMIUM",Nickelodeon
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6792.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Once TV" tvg-logo="http://158.69.127.19/oscuros/oncetv.png" group-title="PREMIUM",Once TV
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6764.ts
+#EXTINF:-1 tvg-ID="RCN Televisión de Colombia" tvg-name="RCN" tvg-logo="http://158.69.127.19/oscuros/rcn.png" group-title="PREMIUM",RCN
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6766.ts
+#EXTINF:-1 tvg-ID="RCN 2" tvg-name="RCN HD 2" tvg-logo="http://158.69.127.19/externos/RCN_HD2.png" group-title="PREMIUM",RCN HD 2
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6767.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CO: Nuestra Tele" tvg-logo="http://158.69.127.19/oscuros/nuestratele2.png" group-title="PAISES",CO: Nuestra Tele
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/10193.ts
+#EXTINF:-1 tvg-ID="RCN Novelas" tvg-name="RCN Novelas" tvg-logo="http://158.69.127.19/oscuros/rcnnovelas.png" group-title="PREMIUM",RCN Novelas
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6835.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CO: Senal Colombia" tvg-logo="http://158.69.127.19/oscuros/senalcolombia.png" group-title="PAISES",CO: Senal Colombia
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6768.ts
+#EXTINF:-1 tvg-ID="Space (Panamericano)" tvg-name="Space" tvg-logo="http://158.69.127.19/oscuros/space.png" group-title="PREMIUM",Space
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6790.ts
+#EXTINF:-1 tvg-ID="Sony Entertainment Television (Andes feed)" tvg-name="Sony." tvg-logo="http://158.69.127.19/oscuros/sony.png" group-title="PREMIUM",Sony.
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6791.ts
+#EXTINF:-1 tvg-ID="Studio Universal (Latin America)" tvg-name="Studio Universal" tvg-logo="http://158.69.127.19/oscuros/studiouniversal.png" group-title="PREMIUM",Studio Universal
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6833.ts
+#EXTINF:-1 tvg-ID="Syfy (Latin America)" tvg-name="SyFy" tvg-logo="http://158.69.127.19/oscuros/syfy.jpg" group-title="PREMIUM",SyFy
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6789.ts
+#EXTINF:-1 tvg-ID="truTV (Latin America)" tvg-name="TRUtv" tvg-logo="http://158.69.127.19/oscuros/trutv.png" group-title="PREMIUM",TRUtv
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6784.ts
+#EXTINF:-1 tvg-ID="TBS Latin America" tvg-name="TBS" tvg-logo="http://158.69.127.19/oscuros/tbs.png" group-title="PREMIUM",TBS
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6832.ts
+#EXTINF:-1 tvg-ID="TCM - Turner Classic Movies (Pan-Regional)" tvg-name="TCM" tvg-logo="http://158.69.127.19/oscuros/tcm.png" group-title="PREMIUM",TCM
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6831.ts
+#EXTINF:-1 tvg-ID="TNT Latin America (Colombia)" tvg-name="TNT" tvg-logo="http://158.69.127.19/oscuros/tnt.png" group-title="PREMIUM",TNT
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6786.ts
+#EXTINF:-1 tvg-ID="TNT Series PAN SD  213" tvg-name="TNT Series" tvg-logo="http://158.69.127.19/oscuros/tntseries.png" group-title="PREMIUM",TNT Series
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6785.ts
+#EXTINF:-1 tvg-ID="Tooncast Latin America (Central/Multi Country)" tvg-name="Tooncast" tvg-logo="http://158.69.127.19/oscuros/tooncast.png" group-title="PREMIUM",Tooncast
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/7777.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telefe." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Telefe.png/200px-Telefe.png" group-title="PREMIUM",Telefe.
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6771.ts
+#EXTINF:-1 tvg-ID="Telemundo (Latin America / Non-US)" tvg-name="Telemundo Internacional" tvg-logo="http://158.69.127.19/oscuros/telemundointernacional.jpg" group-title="PREMIUM",Telemundo Internacional
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6787.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telemundo FL" tvg-logo="http://158.69.127.19/oscuros/telemundo.jpg" group-title="PREMIUM",Telemundo FL
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/11604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telenovelas" tvg-logo="http://158.69.127.19/oscuros/tlnovelas.jpg" group-title="PREMIUM",Telenovelas
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/10575.ts
+#EXTINF:-1 tvg-ID="TLC (Latin America)" tvg-name="TLC Discovery" tvg-logo="http://158.69.127.19/oscuros/tlcdiscoveryHD.jpg" group-title="PREMIUM",TLC Discovery
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6826.ts
+#EXTINF:-1 tvg-ID="" tvg-name="El Trece AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/150px-Canal13_logo.png" group-title="PREMIUM",El Trece AR
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6773.ts
+#EXTINF:-1 tvg-ID="Universal Channel (Latin America)" tvg-name="Universal Channel" tvg-logo="http://158.69.127.19/oscuros/universalchannel.png" group-title="PREMIUM",Universal Channel
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6781.ts
+#EXTINF:-1 tvg-ID="VH1 Latin America (North)" tvg-name="VH1" tvg-logo="http://158.69.127.19/oscuros/vh1.png" group-title="PREMIUM",VH1
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6779.ts
+#EXTINF:-1 tvg-ID="VH1 Classic Europe (North America)" tvg-name="VH1 Classic" tvg-logo="http://158.69.127.19/oscuros/1classic.png" group-title="PREMIUM",VH1 Classic
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6778.ts
+#EXTINF:-1 tvg-ID="Warner Channel (Andes)" tvg-name="Warner Channel" tvg-logo="http://158.69.127.19/oscuros/warnertv.png" group-title="PREMIUM",Warner Channel
+http://158.69.127.19:8000/live/app/ratasestaeslalistadePlay!/6777.ts
